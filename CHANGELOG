@@ -1,0 +1,11 @@
+openengsb-manual-builder-resources-1.0.0 2011-12-20
+---------------------------------------------------
+
+This release simply contains the copied resources from OpenEngSB Framework 2.2.1. Basically those could be used for
+every manual build for the OpenEngSB
+
+### Details
+** Task
+    * [OPENENGSB-2424] - Provide initial project infrastructure for openengsb-manual-builder-resources
+    * [OPENENGSB-2425] - Move resources from openengsb-framework to openengsb-manual-builder-resources
+    * [OPENENGSB-2426] - Release manual-builder-resources 1.0.0
